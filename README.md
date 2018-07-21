@@ -5,7 +5,7 @@ Built using omni 7.1 sources
 
 
 
-The LG ARISTO 2(codenamed _"cv1plus"_ because idk the real codename) is a smartphone from LG.
+The LG ARISTO 2 PLUS (codenamed _"cv1plus"_ because idk the real codename) is a smartphone from LG.
 It was released in mid-2018.
 
 Device configuration for LG ARISTO 2 PLUS
