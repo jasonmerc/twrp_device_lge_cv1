@@ -1,16 +1,16 @@
-# TWRP device configuration for LG ARISTO 2
-TWRP for the LG ARISTO 2
+# TWRP device configuration for LG ARISTO 2 PLUS
+TWRP for the LG ARISTO 2 PLUS
 
 Built using omni 7.1 sources
 
 
 
-The LG ARISTO 2(codenamed _"cv1"_) is a smartphone from LG.
-It was released in January,2018.
+The LG ARISTO 2(codenamed _"cv1plus"_ because idk the real codename) is a smartphone from LG.
+It was released in mid-2018.
 
-Device configuration for LG ARISTO 2
+Device configuration for LG ARISTO 2 PLUS
 ========================================
-
+**You'll notice it's very similar to the normal Aristo 2**
 Basic   | Spec Sheet
 -------:|:-------------------------
 CPU     | Quad-core 1.4 GHz Cortex-A53
