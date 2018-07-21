@@ -21,7 +21,7 @@ Memory  | 2 GB RAM
 Shipped Android Version | 7.1.2
 Storage | 16 GB
 MicroSD | Up to 32 GB
-Battery | Li-Ion 2410mAh battery
+Battery | Removable Li-Ion 2410mAh battery
 Display | 720 x 1280 pixels, 5 inches (~294 ppi pixel density)
 Camera  | 13 MP, autofocus, LED flash, phase detection 
 
