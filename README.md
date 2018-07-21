@@ -11,6 +11,7 @@ It was released in mid-2018.
 Device configuration for LG ARISTO 2 PLUS
 ========================================
 **You'll notice it's very similar to the normal Aristo 2**
+
 Basic   | Spec Sheet
 -------:|:-------------------------
 CPU     | Quad-core 1.4 GHz Cortex-A53
